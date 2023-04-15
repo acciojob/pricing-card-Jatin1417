@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+
+.Btn{
+	background-color: #ef574c;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+	min-height:40px;
+    cursor: pointer;
+	font-size:20px
+}
+.container{
+	padding-top:60px;
+	min-width:460px;
+	min-height:600px;
+	background-color:#f1f1f1;
+	margin:auto;
+	font-size:30px;
+	width:50%;
+	text-align:center; 
+	font-weight: 600;
+}
