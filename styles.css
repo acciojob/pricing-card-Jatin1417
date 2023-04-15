@@ -3,9 +3,10 @@
 .Btn{
 	background-color: #ef574c;
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     color: #fff;
-	min-height:40px;
+	min-width:100px;
+	min-height:50px;
     cursor: pointer;
 	font-size:20px
 }
